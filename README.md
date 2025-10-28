@@ -74,7 +74,7 @@ npm test
 # Start development server
 npm run dev
 ```
->>>>>>> dev
+
 
 ## Documentation
 See `/docs` folder for detailed documentation.
@@ -122,6 +122,6 @@ See `/docs` folder and `/docs/ai-integration.md`
 
 ## License
 MIT License
->>>>>>> conflict-simulator
+
 "## FAQ" 
 "update" 
