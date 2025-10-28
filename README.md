@@ -39,7 +39,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🎯 Chaos engineering tools
 
 ## Legacy Features
->>>>>>> conflict-simulator
+
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
